@@ -4,3 +4,6 @@
 [submodule "hitobito_generic"]
 	path = hitobito_generic
 	url = https://github.com/hitobito/hitobito_generic.git
+[submodule "hitobito_tenants"]
+	path = hitobito_tenants
+	url = git@github.com:hitobito/hitobito_tenants.git
