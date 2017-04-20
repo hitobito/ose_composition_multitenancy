@@ -6,4 +6,4 @@
 	url = https://github.com/hitobito/hitobito_generic.git
 [submodule "hitobito_tenants"]
 	path = hitobito_tenants
-	url = git@github.com:hitobito/hitobito_tenants.git
+	url = https://github.com/hitobito/hitobito_tenants.git
