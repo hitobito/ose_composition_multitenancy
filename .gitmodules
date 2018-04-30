@@ -6,3 +6,6 @@
 	path = hitobito_tenants
 	url = https://github.com/hitobito/hitobito_tenants.git
   branch = master
+[submodule "hitobito"]
+	path = hitobito
+	url = https://github.com/hitobito/hitobito.git
